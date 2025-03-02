@@ -1,6 +1,12 @@
-# Index
+# Advanced PHP Exercises
 
-![Advance php index image](https://github.com/Md-Meraj-ahmad/Advance-PHP-Exercise/blob/main/Screenshot%202025-03-02%20224513.png)
+This repository contains advanced PHP exercises covering various topics like Object-Oriented Programming (OOP), MVC architecture, Web Services, and more.
+
+## PDF Documentation
+
+You can download the PDF documentation for this project [here](Advance-PHP Exercise.pdf).
+
+
 
 # Advanced PHP Exercises: OOP Concepts, Web Services, and MVC Architecture
 
